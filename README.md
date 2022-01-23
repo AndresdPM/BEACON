@@ -13,5 +13,4 @@ $ ./BEACON.py options_file
 
 ## Requirements
 
-This code makes use of Astropy, Pandas, Numpy, Scipy, Matplotlib, and Sklearn among others.
-
+This code makes use of Numpy, Scipy, and Matplotlib among other scientific libraries.
