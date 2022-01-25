@@ -29,8 +29,7 @@ Spatial coordinates and velocities are required by BEACON. The rest of the featu
 The table has to contain the columns for the sky-projected velocities, even if these are unknown:
 
 #RA  Dec  vRA   evRA  vDec   evDec   vLOS   evLOS   Fe_H   eFe_H
-#
-39.73225000  -34.51991667  0.0000  1.0000  0.0000  1.0000  49.3700  3.5800  0.00123  0.00089  0.000145   0.00001
+39.73225  -34.51991  0.00  1.00  0.00  1.00  49.4  3.6  -1.55  0.10
 ...
 
 If more than one quemical abundance is going to be used (for example: Fe/H, O/Fe, Mg/Fe...), the user should set the option "Extra_Coo_is_FeH" to "False" in the options file.
