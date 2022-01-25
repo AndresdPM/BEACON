@@ -29,6 +29,7 @@ Spatial coordinates and velocities are required by BEACON. The rest of the featu
 The table has to contain the columns for the sky-projected velocities, even if these are unknown:
 
 #RA  Dec  vRA   evRA  vDec   evDec   vLOS   evLOS   Fe_H   eFe_H
+
 39.73225  -34.51991  0.00  1.00  0.00  1.00  49.4  3.6  -1.55  0.10
 ...
 
